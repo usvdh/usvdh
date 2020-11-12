@@ -4,6 +4,7 @@ I'm a 16 year old web developer from the Netherlands. I'm half-Dutch & half-Japa
 
 - I mainly work with HTML, CSS, JavaScript, React and React Native, and always improving. 👾
 - Looking for freelance and internship oppertunities. 🧑‍💻
+- Absolute privacy and websec freak.
 
 
 <strong>🔭 Currently I'm...</strong>
