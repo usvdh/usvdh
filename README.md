@@ -1,16 +1,16 @@
-### Hi there 👋
+### 👋 Hi there 
 
-<!--
-**USVDH/usvdh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 16 year old web developer from the Netherlands. I'm half-Dutch & half-Japanese, so I can speak Dutch, Japanese and English! I'm currently contributing to multiple private projects. 
 
-Here are some ideas to get you started:
+- I mainly work with HTML, CSS, JavaScript, React and React Native, and always improving. 👾
+- Looking for freelance and internship oppertunities. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<strong>🔭 Currently I'm...</strong>
+
+  1. a Software Engineer at <a href="https://www.babylook.mom/">BabyLook</a>
+  2. Learning new technologies such as TypeScript and GatsbyJS.
+  3. Learning Chinese trough the power of the internet.
+  4. Hosting private Minecraft servers for 100+ players.
+
+<em><b>I love meeting new people</b> please get in touch with me <b>and I'll be happy to talk more</b> :)</em>
