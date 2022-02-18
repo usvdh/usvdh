@@ -2,7 +2,7 @@ Sen van der Heide / Sen Ueda / 上田蟬
 
 ### 👋 Hi there 
 
-I'm a 17 year old web developer from the Netherlands. I'm half-Dutch & half-Japanese, so I can speak Dutch, Japanese and English! I'm currently contributing to multiple private projects. 
+I'm a 18 year old web developer from the Netherlands. I'm half-Dutch & half-Japanese, so I can speak Dutch, Japanese and English! I'm currently contributing to multiple private projects. 
 
 - I mainly work with HTML, CSS, JavaScript, React and React Native, and always improving. 👾
 - Looking for freelance and internship oppertunities. 🧑‍💻
