@@ -11,7 +11,7 @@ I'm a 18 year old web developer from the Netherlands. I'm half-Dutch & half-Japa
 
 <strong>🔭 Currently I'm...</strong>
 
-  1. a Software Engineer at a certain company that develops apps for learning new languages. 
+  1. a Software Engineer at a certain startup in LA that develops apps for learning new languages. 
   2. Learning new technologies such as TypeScript and GatsbyJS.
   3. Learning Chinese trough the power of the internet.
   4. Hosting private Minecraft servers for 100+ players.
